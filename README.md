@@ -36,4 +36,30 @@ Tools -> Boards Manager -> installing ESP32
 # Now will work the ESP .
 
 
-Some people have problems with port undefined then the ESP32 doesn't work
+# The problem we encountered while doing this experiment :
+We have two solutions for this problem :                                                                                                                             
+1- Tools -> Board -> ESP32 Arduino -> WEMOS D1 MINI ESP32                                                                                                           
+                                                                                                                                                        
+<img width="960" alt="tools" src="https://user-images.githubusercontent.com/85851678/176428794-5d0c0e12-3bee-4d0f-8d02-c3e582380774.png">
+                                                                                                                                                        
+                                                                                                                                                                     
+2-Update driver                                                                                                                                                     
+My Computer -> Properties -> Devic Manager -> CP2104 Update driver                                                                                                 
+If the problem didn't is solved, we go to Google and write CP2104 driver
+                                                                                                                                                        
+<img width="912" alt="solve probleam" src="https://user-images.githubusercontent.com/85851678/176431704-16e81e7a-93d3-4f48-badb-4e46562fff02.png">
+                                                                                                                                                        
+and Softwear Downloads  
+                                                                                                                                                        
+<img width="928" alt="solve probleam2" src="https://user-images.githubusercontent.com/85851678/176432034-4a8416c1-2158-46af-801e-e471fc6f9745.png">
+                                                                                                                                                        
+and back to Devic Manager -> CP2104 Update driver
+                                                                                                                                                        
+<img width="548" alt="solve probleam3" src="https://user-images.githubusercontent.com/85851678/176432414-ec15b556-e0eb-449f-a3d9-bf94f81c3f2e.png">
+                                                                                                                                                        
+<img width="547" alt="solve probleam4" src="https://user-images.githubusercontent.com/85851678/176432527-f57e2079-1db1-4b24-9145-223af83d8510.png">
+                                                                                                                                                        
+Enter the path where it was downloaded CP210                                                                                                                         
+
+<img width="548" alt="solve probleam5" src="https://user-images.githubusercontent.com/85851678/176432598-38ffeb25-288c-45f3-ac10-96879208926a.png">
+

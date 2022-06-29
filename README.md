@@ -32,4 +32,4 @@ Tools -> Boards Manager -> installing ESP32
                                                                                                                                                                      
 <img width="959" alt="install esp32" src="https://user-images.githubusercontent.com/85851678/176418983-73f26202-b5c7-480d-92b2-e393eb492f9c.png">
                                                                                                                                                         
-# Now you will work the ESP .
+# Now will work the ESP .

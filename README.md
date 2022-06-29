@@ -17,7 +17,8 @@ then choose the port because make sure the code is movement to the electronic ch
 Tools -> Port -> COM6                                                                                                                                                   
 Now the ESP32 will work .                                                                                                                                               
                                                                                                                                                                       
-![WhatsApp Image 2022-06-29 at 12 49 14 PM](https://user-images.githubusercontent.com/85851678/176407430-3a1d9b19-2e66-410f-b059-ca40d84bf244.jpeg)
+![ESP32](https://user-images.githubusercontent.com/85851678/176469288-733c056a-6bbe-482c-9110-cb7d9fa04191.jpeg)
+
                                                                                                                                                                       
 If not work , then we need to call the library ESP32 because you didn't installing the library                                                                         
 Tools -> Boards Manager -> search ESP32 and installing                                                                                                                   

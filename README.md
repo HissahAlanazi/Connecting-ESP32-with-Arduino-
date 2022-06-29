@@ -1,8 +1,9 @@
 # In this project we are connecting ESP32 with Arduino :-                                                                                                               
-So in First step we need to installing Arduino  :                                                                                                                       
 # What is Arduino? -                                                                                                                                                   
-Arduino is an open-source electronics platform based on easy-to-use hardware and software.                                                                             
-                                                                                                                                                                      
+Arduino is an open-source electronics platform based on easy-to-use hardware and software.                                                                           
+                                                                                                                                                                  
+                                                                                                                                                                  
+So in First step we need to installing Arduino  :                                                                                                                    
 Second step:                                                                                                                                                           
 open the Arduino and connect the ESP32 in USP your laptop ,                                                                                                             
 the code is auto written found in the arduino we need just open ,                                                                                                       

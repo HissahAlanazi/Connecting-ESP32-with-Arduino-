@@ -1,5 +1,5 @@
-# In this project we are connecting ESP32 with Arduino :-                                                                                                               
-# What is Arduino? -                                                                                                                                                   
+# In This Project We Are Connecting ESP32 With Arduino :-                                                                                                               
+# What is Arduino?                                                                                                                                                    
 Arduino is an open-source electronics platform based on easy-to-use hardware and software.                                                                           
                                                                                                                                                                   
                                                                                                                                                                   
@@ -36,14 +36,18 @@ Tools -> Boards Manager -> installing ESP32
 # Now will work the ESP .
 
 
-# The problem we encountered while doing this experiment :
-We have two solutions for this problem :                                                                                                                             
+# The problems:
+The problems we encountered while doing this experiment is that the port is not defined                                                                             
+                                                                                                                                                        
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85851678/176435478-1ad4e0e1-f4d5-47c9-ae3e-bd11d557a638.png">
+                                                                                                                                                        
+* We have two solutions for this problem :                                                                                                                           
 1- Tools -> Board -> ESP32 Arduino -> WEMOS D1 MINI ESP32                                                                                                           
                                                                                                                                                         
 <img width="960" alt="tools" src="https://user-images.githubusercontent.com/85851678/176428794-5d0c0e12-3bee-4d0f-8d02-c3e582380774.png">
                                                                                                                                                         
                                                                                                                                                                      
-2-Update driver                                                                                                                                                     
+ 2-Update driver                                                                                                                                                     
 My Computer -> Properties -> Devic Manager -> CP2104 Update driver                                                                                                 
 If the problem didn't is solved, we go to Google and write CP2104 driver
                                                                                                                                                         
@@ -60,6 +64,8 @@ and back to Devic Manager -> CP2104 Update driver
 <img width="547" alt="solve probleam4" src="https://user-images.githubusercontent.com/85851678/176432527-f57e2079-1db1-4b24-9145-223af83d8510.png">
                                                                                                                                                         
 Enter the path where it was downloaded CP210                                                                                                                         
-
+                                                                                                                                                        
 <img width="548" alt="solve probleam5" src="https://user-images.githubusercontent.com/85851678/176432598-38ffeb25-288c-45f3-ac10-96879208926a.png">
+                                                                                                                                                        
+<img width="959" alt="port" src="https://user-images.githubusercontent.com/85851678/176435081-1df18382-0746-43f4-b444-3c580fd28e11.png">
 

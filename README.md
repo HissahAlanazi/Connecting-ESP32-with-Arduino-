@@ -70,7 +70,7 @@ Enter the path where it was downloaded CP210
                                                                                                                                                         
 <img width="959" alt="port" src="https://user-images.githubusercontent.com/85851678/176435081-1df18382-0746-43f4-b444-3c580fd28e11.png">
                                                                                                                                                         
-                            Congratulations it's working now
+                                   Congratulations it's working now
 
-#Connect to wifi and control ESP32 through internet
+# You Can See Second mission about how  Connect to wifi and control ESP32 through internet 
 https://github.com/HissahAlanazi/Connect-to-wifi-and-control-ESP32-through-internet
